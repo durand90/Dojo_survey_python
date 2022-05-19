@@ -1,0 +1,10 @@
+.container {
+    width: 40%;
+    margin: 0 auto;
+    background-color:grey;
+    text-align: center;
+}
+
+.submit {
+    margin-top: 20px;
+}
